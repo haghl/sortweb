@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/sortweb/static/css/main.a510df0c.css",
-    "main.js": "/sortweb/static/js/main.7d6163f4.js",
+    "main.js": "/sortweb/static/js/main.5bb3ba75.js",
     "static/js/787.9e374a21.chunk.js": "/sortweb/static/js/787.9e374a21.chunk.js",
     "index.html": "/sortweb/index.html",
     "main.a510df0c.css.map": "/sortweb/static/css/main.a510df0c.css.map",
-    "main.7d6163f4.js.map": "/sortweb/static/js/main.7d6163f4.js.map",
+    "main.5bb3ba75.js.map": "/sortweb/static/js/main.5bb3ba75.js.map",
     "787.9e374a21.chunk.js.map": "/sortweb/static/js/787.9e374a21.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a510df0c.css",
-    "static/js/main.7d6163f4.js"
+    "static/js/main.5bb3ba75.js"
   ]
 }
